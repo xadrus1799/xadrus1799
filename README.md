@@ -29,7 +29,8 @@ https://www.theodinproject.com
 Portfolio project ideas 
 https://www.reddit.com/r/learnprogramming/comments/pslh68/project_list_for_front_end_developers/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
-
+Tailwind:
+https://tailwindcss.com
 
 Guter Blog: 
 https://selfmadewebdesigner.com/5-places-to-learn-web-development-for-free/
