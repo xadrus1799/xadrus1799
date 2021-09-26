@@ -2,38 +2,58 @@
 - 👀 I’m interested in creating events, mastering webdesign 
 - 🌱 I’m currently learning JavaScript, HTML5, CSS3
 - 📫 Reache me on Github
+-
 
 
-Webdesign cheat sheets 
+<h1> Link Sammlung </h1>
+
+<h2> learn css / html / fullstack </h2>
+https://www.freecodecamp.org
+https://www.theodinproject.com
+https://teamtreehouse.com
+
+<h2>Cheat Sheets</h2>
+Webdesign cheat sheets <br>
 https://htmlcheatsheet.com/css/
 
 
-Blog Layout
+Blog Layout <br>
 https://www.w3schools.com/howto/howto_css_blog_layout.asp
 
 
-Portfolio with react 
+Portfolio with react <br>
 https://www.google.de/amp/s/www.freecodecamp.org/news/build-portfolio-website-react/amp/
 
 
-CSS Projects 
+CSS Projects <br>
 https://www.fireship.io 
 
-CSS snippets 
+CSS snippets <br>
 https://codemyui.com/tag/pure-css/
 
-Learn Webdesign 
+Learn Webdesign <br>
 https://teamtreehouse.com
 https://www.theodinproject.com
 
-Portfolio project ideas 
+Portfolio project ideas <br>
 https://www.reddit.com/r/learnprogramming/comments/pslh68/project_list_for_front_end_developers/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
-Tailwind:
+Tailwind: <br>
 https://tailwindcss.com
 
-Guter Blog: 
+<h2>Stuff to read </h2>
+Guter Blog: <br>
 https://selfmadewebdesigner.com/5-places-to-learn-web-development-for-free/
+
+<h2>Tutorials</h2>
+<h3>freecodecamp Tutorials:</h3>
+Javascript Validation:<br>
+https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/
+css grid tutorial:<br>
+https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/
+
+Good licence free themes: <br>
+https://themefisher.com
 
 Project ideas: 
 
