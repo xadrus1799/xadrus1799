@@ -2,7 +2,6 @@
 - 👀 I’m interested in creating events, mastering webdesign 
 - 🌱 I’m currently learning JavaScript, HTML5, CSS3
 - 📫 Reache me on Github
--
 
 
 <h1> Link Sammlung </h1>
@@ -55,7 +54,7 @@ https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/
 Good licence free themes: <br>
 https://themefisher.com
 
-Project ideas: 
+<h1> Project ideas:</h1>
 
 1. Kalender Abfrage bei der jeder mit seinem Namen einen Kalendertag auswählen kann 
 
