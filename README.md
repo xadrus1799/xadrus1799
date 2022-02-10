@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xadrus1799
 - 👀 I’m interested in creating events, mastering webdesign 
-- 🌱 I’m currently learning JavaScript, HTML5, CSS3
-- 📫 Reache me on Github
+- 🌱 I’m always learning JavaScript, HTML5, CSS3
+
 
 
 <h1> Link Sammlung </h1>
